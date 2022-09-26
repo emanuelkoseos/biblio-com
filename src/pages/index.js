@@ -8,7 +8,6 @@ export default function Home() {
         navigate('site');
       }, []);
     return <div>
-            <h1>default</h1>
-            <script src="redirect.js"></script>
+            <h3>loading...please wait.</h3>
             </div>
 }
