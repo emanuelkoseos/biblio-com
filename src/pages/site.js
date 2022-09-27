@@ -1,9 +1,15 @@
-import React from 'react';
+import React from "react"
+import { useEffect } from 'react';
+import { navigate } from 'gatsby';
 
-export default function NotFound() {
-  if (typeof window !== 'undefined') {
-    window.location = '/site/index.html';
-  }
+export default function Site() {
+    if (typeof window !== 'undefined') {
+        // redirect after 1sec
+        //window.setTimeout(function() {
+          window.location.pathname = '/site/index.html'
+        //}, 1000)
+      }
+    return null;
 
-  return null;
 }
+
