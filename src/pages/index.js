@@ -4,11 +4,11 @@ import { useEffect } from 'react';
 import { navigate } from 'gatsby';
 
 export default function Home() {
-    useEffect(() => {
-        navigate('site');
-      }, []);
+  if (typeof window !== 'undefined') {
+        window.location.href = '/site/index.html';
+    }
     return <div>
-            <h3>loading...please wait.</h3>
-            </div>
+    <h3>loading...please wait.</h3>
+    </div>
 }
 
