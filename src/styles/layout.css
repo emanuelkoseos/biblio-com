@@ -178,7 +178,7 @@ ul.nav li.current button { color: #fff; }
 (min-resolution: 192dpi) {
 
 	#hero {
-		background: #23292f url(img/hero-bg_@2X.png);
+		background: #23292f url(img/video_bg.png);
 		background-size: 200px 200px;
 	}
 

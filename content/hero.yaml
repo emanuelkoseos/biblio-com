@@ -1,13 +1,13 @@
-headline: The perfect template to showcase your awesome product and service.
+headline: WE ARE CLOUD ENGINEERS
 
-body: Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
+body: Looking for an consultant? We can help with your next cloud, devops or data science project.
 
-button1:
-  label: Free Trial
-  to: '/#'
+# button1:
+#   label: Free Trial
+#   to: '/#'
 
 button2:
   label: Learn More
-  to: '/#features'
+  to: '/#about'
 
-image: images/hero-image.png
+image: images/home_bg.png

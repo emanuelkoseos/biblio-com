@@ -1,0 +1,21 @@
+-
+  name: aboutus'
+
+  title: About Us.
+  body: Biblio {systems} is a technology consulting firm specializing in solutions that optimize customer fulfillment and build organizational value. We are an enabler of technologies targeting business transformation offering Hybrid Cloud and DevOps service support.
+  image: 'images/about-1.png'
+-
+  name: mission
+  title: Our Mission.
+  body: Our mission focuses on helping customers adopt technical strategies that promote informed decisions, enable operational efficiency and build stronger corporate communities.
+  image: 'images/about-2.png'
+-
+  name: experience
+  title: Our Experience.
+  body: With over 20 years’ experience in business transformation, we empower organizations with the ability to respond to real-time changes that close the gap between business goals and digital transformation driving productivity. We focus on helping small and medium businesses migrate legacy applications or build new solutions targeted to a cloud or hybrid-cloud platform.
+  image: 'images/about-3.png'
+-
+  name: help
+  title: Personalized Support.
+  body: We offer personalized services, that regularly focus on training staff or developing your business. Through conferences, client meetings, and one-on-one with your team members we insure your business is able to respond to changes in markets or technology.
+  vimeo: 14592941
